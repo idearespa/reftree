@@ -1,12 +1,14 @@
 # reftree
 reftree UNI
 
-Hallo all!
+requirements.
 here you can find istruction to make reftree UNI working!
+Installation.
+make a git clone of repository
+identify the file config/example.js and rename in config/index.js and put a DB connection in;
+open the root folder and exec:
+npm i
+npm run start
+to work properly needs Nodejs
 
-identify the file config/index.js and put a DB connection in;
-create a reverse proxy directly connect to port number 3000 o other port for IIS;
-edit file pm2.yml and set the name to reftree (remember to change the port according to second point;
-launch pm2 starting pm2.yml;
-exec pm2 and save all;
-to work properly need Nodejs
+
