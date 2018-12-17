@@ -1,0 +1,34 @@
+publiccode-yaml-version: development
+releaseDate: '2018-12-17'
+url: 'https://github.com/idearespa/reftree'
+name: ref tree openSource
+applicationSuite: javascript
+landingURL: 'https://github.com/idearespa/reftree'
+developmentStatus: development
+softwareVersion: developement
+softwareType: configurationFiles
+isBasedOn: 'https://github.com/idearespa/reftree'
+tags:
+  - archiving
+  - database
+maintenance:
+  type: internal
+  contacts:
+    - name: claudio marcopoli
+      email: claudio.marcopoli@idearespa.eu
+      phone: '3356909178'
+  contractors:
+    - name: paolo vari
+      website: www.idearespa.com
+      until: '2025-12-12'
+legal:
+  repoOwner: Idea real estate spa
+  license: GPL-3.0-only
+it:
+  riuso:
+    codiceIPA: udsg_ge
+description:
+  eng:
+    shortDescription: reftree opensource for real estate
+    documentation: 'https://github.com/idearespa/reftree'
+    longDescription: <p>RefTree open source for real estate management</p>
