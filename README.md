@@ -1,9 +1,8 @@
 # reftree
-reftree open source
-reftree open source
+reftree UNI
 
 Hallo all!
-here you can find istruction to make reftreeOpenSource working!
+here you can find istruction to make reftree UNI working!
 
 identify the file config/index.js and put a DB connection in;
 create a reverse proxy directly connect to port number 3000 o other port for IIS;
