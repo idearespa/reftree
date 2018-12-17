@@ -1,5 +1,6 @@
 
 # reftree UNI
+Reftree UNI è il software che permette la gestione del patrimonio edilizio di una Università o di un Ente in genere.
 
 # requirements.
 here you can find istruction to make reftree UNI working!
