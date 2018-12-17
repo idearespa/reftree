@@ -1,9 +1,9 @@
 # reftree
 reftree UNI
 
-requirements.
+# requirements.
 here you can find istruction to make reftree UNI working!
-Installation.
+# Installation.
 make a git clone of repository
 identify the file config/example.js and rename in config/index.js and put a DB connection in;
 open the root folder and exec:
