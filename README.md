@@ -5,7 +5,7 @@ Reftree UNI è il software che permette la gestione del patrimonio edilizio di u
 # requirements.
 here you can find istruction to make reftree UNI working!
 # Installation.
-make a git clone of repository
+make a git clone of repository and
 restore the reftree backup 'REF3_reftree_20190128_175018.bak' ;
 copy in windows system the dll CustomProcedures.dll 
 run script 'Setup_Assembly.sql' to add function to database;
