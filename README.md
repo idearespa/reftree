@@ -6,11 +6,8 @@ Reftree UNI è il software che permette la gestione del patrimonio edilizio di u
 here you can find istruction to make reftree UNI working!
 # Installation.
 make a git clone of repository
-identify the file config/example.js and rename in config/index.js and put a DB connection in;
-on the database, run script of creation table (src/dbscript.sql).
-open the root folder and exec:
-npm i
-npm run start
-to work properly needs Nodejs
-
-
+restore the reftree backup 'REF3_reftree_20190128_175018.bak' ;
+copy in windows system the dll CustomProcedures.dll 
+run script 'Setup_Assembly.sql' to add function to database;
+copy the solution 'RefTreePA.rar on the IIS;
+Follow the istruction on document named 'Installazione RefTree_UNI.pdf.
